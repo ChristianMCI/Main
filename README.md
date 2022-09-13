@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Christian
-- 👀 I’m interested in coding, as a hobby on the free time and for day-to-day work.
+- 👀 I’m interested in coding, as a hobby on my free time and for day-to-day work.
 - 🌱 I’m currently learning PowerShell, JSON, Linux, Git, shell, C# etc.
 
 <!---
